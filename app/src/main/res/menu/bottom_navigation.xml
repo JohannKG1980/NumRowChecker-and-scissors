@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/numbersFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_numbers_24"
+        android:title="Numbers"/>
+    <item
+        android:id="@+id/scissorsFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_content_cut_24"
+        android:title="Scissors"/>
+</menu>
